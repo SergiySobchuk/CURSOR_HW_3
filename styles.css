@@ -2,8 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 #header{
   display: flex;
-/*   flex-grow: 1; */
-  width: 1000px
+}
+#main{
+  margin: auto;
+  width: 1000px;
 }
 .header-box{
   display: flex;
